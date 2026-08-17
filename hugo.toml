@@ -45,19 +45,19 @@ summaryLength = 0
 
     [[params.profileMode.buttons]]
       name = "Research Publications"
-      url = "/publications/"
+      url = "/Hugo-Portfolio/publications/"
 
     [[params.profileMode.buttons]]
       name = "Projects"
-      url = "/projects/"
+      url = "/Hugo-Portfolio/projects/"
 
     [[params.profileMode.buttons]]
       name = "Full CV"
-      url = "/cv/"
+      url = "/Hugo-Portfolio/cv/"
 
     [[params.profileMode.buttons]]
       name = "Search"
-      url = "/search/"
+      url = "/Hugo-Portfolio/search/"
 
   [[params.socialIcons]]
     name = "linkedin"
@@ -74,25 +74,25 @@ summaryLength = 0
 [menu]
   [[menu.main]]
     name = "Publications"
-    url = "/publications/"
+    url = "/Hugo-Portfolio/publications/"
     weight = 10
 
   [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    url = "/Hugo-Portfolio/projects/"
     weight = 20
 
   [[menu.main]]
     name = "Experience & Honors"
-    url = "/experience/"
+    url = "/Hugo-Portfolio/experience/"
     weight = 30
 
   [[menu.main]]
     name = "CV"
-    url = "/cv/"
+    url = "/Hugo-Portfolio/cv/"
     weight = 40
 
   [[menu.main]]
     name = "Search"
-    url = "/search/"
+    url = "/Hugo-Portfolio/search/"
     weight = 50

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ADS-B on Portfolio</title><link>https://rony-1.github.io/Hugo-Portfolio/tags/ads-b/</link><description>Recent content in ADS-B on Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rony-1.github.io/Hugo-Portfolio/tags/ads-b/index.xml" rel="self" type="application/rss+xml"/><item><title>Hybrid Explainable Models for Aviation Security: Detecting ADS-B Injection Attacks with XAI Techniques</title><link>https://rony-1.github.io/Hugo-Portfolio/publications/hybrid-explainable-aviation-security/</link><pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate><guid>https://rony-1.github.io/Hugo-Portfolio/publications/hybrid-explainable-aviation-security/</guid><description>Hybrid machine learning and Explainable AI (XAI) framework for detecting spoofed ADS-B signal injection attacks in aviation telemetry.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ADS-B on Portfolio</title>
+    <link>http://localhost:1313/Hugo-Portfolio/tags/ads-b/</link>
+    <description>Recent content in ADS-B on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Hugo-Portfolio/tags/ads-b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Explainable Models for Aviation Security: Detecting ADS-B Injection Attacks with XAI Techniques</title>
+      <link>http://localhost:1313/Hugo-Portfolio/publications/hybrid-explainable-aviation-security/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Hugo-Portfolio/publications/hybrid-explainable-aviation-security/</guid>
+      <description>Hybrid machine learning and Explainable AI (XAI) framework for detecting spoofed ADS-B signal injection attacks in aviation telemetry.</description>
+    </item>
+  </channel>
+</rss>

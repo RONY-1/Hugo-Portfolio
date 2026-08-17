@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>JavaScript on Portfolio</title><link>https://rony-1.github.io/Hugo-Portfolio/tags/javascript/</link><description>Recent content in JavaScript on Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rony-1.github.io/Hugo-Portfolio/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo PaperMod Portfolio Engine</title><link>https://rony-1.github.io/Hugo-Portfolio/projects/hugo-portfolio-engine/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://rony-1.github.io/Hugo-Portfolio/projects/hugo-portfolio-engine/</guid><description>A fast, minimalist, and responsive personal portfolio engine built with modern clean design principles, instant search, and dark/light themes.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on Portfolio</title>
+    <link>http://localhost:1313/Hugo-Portfolio/tags/javascript/</link>
+    <description>Recent content in JavaScript on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Hugo-Portfolio/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo PaperMod Portfolio Engine</title>
+      <link>http://localhost:1313/Hugo-Portfolio/projects/hugo-portfolio-engine/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Hugo-Portfolio/projects/hugo-portfolio-engine/</guid>
+      <description>A fast, minimalist, and responsive personal portfolio engine built with modern clean design principles, instant search, and dark/light themes.</description>
+    </item>
+  </channel>
+</rss>
