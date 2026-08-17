@@ -45,19 +45,19 @@ summaryLength = 0
 
     [[params.profileMode.buttons]]
       name = "Research Publications"
-      url = "publications"
+      url = "/publications/"
 
     [[params.profileMode.buttons]]
       name = "Projects"
-      url = "projects"
+      url = "/projects/"
 
     [[params.profileMode.buttons]]
       name = "Full CV"
-      url = "cv"
+      url = "/cv/"
 
     [[params.profileMode.buttons]]
       name = "Search"
-      url = "search"
+      url = "/search/"
 
   [[params.socialIcons]]
     name = "linkedin"
@@ -74,25 +74,25 @@ summaryLength = 0
 [menu]
   [[menu.main]]
     name = "Publications"
-    url = "publications"
+    url = "/publications/"
     weight = 10
 
   [[menu.main]]
     name = "Projects"
-    url = "projects"
+    url = "/projects/"
     weight = 20
 
   [[menu.main]]
     name = "Experience & Honors"
-    url = "experience"
+    url = "/experience/"
     weight = 30
 
   [[menu.main]]
     name = "CV"
-    url = "cv"
+    url = "/cv/"
     weight = 40
 
   [[menu.main]]
     name = "Search"
-    url = "search"
+    url = "/search/"
     weight = 50
