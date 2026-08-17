@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Detection on Portfolio</title>
+    <link>http://localhost:1313/Hugo-Portfolio/tags/ai-detection/</link>
+    <description>Recent content in AI Detection on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Hugo-Portfolio/tags/ai-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Human and AI-generated Text Classification</title>
+      <link>http://localhost:1313/Hugo-Portfolio/publications/human-ai-text-classification/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Hugo-Portfolio/publications/human-ai-text-classification/</guid>
+      <description>1st Conference Paper evaluating deep learning and NLP feature extractors for distinguishing human-authored text from LLM-generated content.</description>
+    </item>
+  </channel>
+</rss>
