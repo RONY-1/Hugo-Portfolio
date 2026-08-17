@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vision Transformer on Portfolio</title>
+    <link>http://localhost:1313/Hugo-Portfolio/tags/vision-transformer/</link>
+    <description>Recent content in Vision Transformer on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Hugo-Portfolio/tags/vision-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explainable Deep Learning for Early Detection of Diabetic Retinopathy</title>
+      <link>http://localhost:1313/Hugo-Portfolio/publications/explainable-deep-learning/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Hugo-Portfolio/publications/explainable-deep-learning/</guid>
+      <description>Proposed a novel Grad-CAM++ integrated vision transformer framework that highlights clinical lesion regions with 96.4% diagnostic accuracy.</description>
+    </item>
+  </channel>
+</rss>
